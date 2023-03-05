@@ -5,5 +5,4 @@ const kMyFont = "myFont";
 
 class AssetData {
   static const logo = "assets/img/Logo.png";
-  static const test = "assets/img/test_image.png";
 }
